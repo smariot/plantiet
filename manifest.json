@@ -1,0 +1,13 @@
+{
+"theme_color":"#0f4c75",
+"background_color":"#1b262c",
+"display":"standalone",
+"icons":[
+{
+"src":"noto-1f383.png",
+"sizes":"144x144",
+"type":"image/png"
+}],
+"name":"Plantiet",
+"start_url":"index.html"
+}
